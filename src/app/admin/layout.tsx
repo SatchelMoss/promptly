@@ -17,7 +17,7 @@ export default async function AdminLayout({ children }: { children: React.ReactN
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between gap-4">
           <div className="flex items-center gap-6">
             <Link href="/" className="font-semibold text-sm">
-              Promptly
+              PromptVault
             </Link>
             <nav className="flex items-center gap-1">
               <Link href="/admin" className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}>

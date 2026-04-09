@@ -1,7 +1,7 @@
 import { getAllPrompts } from "@/lib/prompts"
 import { AdminPromptTable } from "@/components/AdminPromptTable"
 
-export const metadata = { title: "Admin — Promptly" }
+export const metadata = { title: "Admin — PromptVault" }
 
 export default async function AdminPage() {
   const prompts = await getAllPrompts()

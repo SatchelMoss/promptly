@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Promptly",
+  title: "PromptVault",
   description: "Better prompts, better results",
 }
 

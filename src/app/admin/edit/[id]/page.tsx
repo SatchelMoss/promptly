@@ -2,7 +2,7 @@ import { getPromptById } from "@/lib/prompts"
 import { PromptForm } from "@/components/PromptForm"
 import { notFound } from "next/navigation"
 
-export const metadata = { title: "Edit Prompt — Promptly" }
+export const metadata = { title: "Edit Prompt — PromptVault" }
 
 export default async function EditPromptPage({
   params,

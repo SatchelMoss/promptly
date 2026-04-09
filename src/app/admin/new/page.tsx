@@ -1,6 +1,6 @@
 import { PromptForm } from "@/components/PromptForm"
 
-export const metadata = { title: "New Prompt — Promptly" }
+export const metadata = { title: "New Prompt — PromptVault" }
 
 export default function NewPromptPage() {
   return (
